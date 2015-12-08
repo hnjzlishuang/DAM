@@ -1,0 +1,195 @@
+<==========  BEGIN @ 29-Nov-2012 10:47:40, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+<==========  BEGIN @ 29-Nov-2012 10:50:40, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+<==========  BEGIN @ 29-Nov-2012 10:51:57, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994412	0.933905 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 10:52:40, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 10:54:01, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994412	0.933905 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 10:54:44, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 10:57:20, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994412	0.933905 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 10:58:01, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 10:58:01, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994427	0.933771 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994582	0.935288 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994555	0.933771 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994428	0.93276 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994437	0.935288 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994386	0.934783 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994373	0.93276 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994435	0.933771 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99443	0.934783 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994492	0.936299 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 10:58:44, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 10:58:44, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994641	0.935157 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994657	0.935157 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994639	0.935157 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994513	0.935157 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994516	0.93617 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994445	0.935157 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994684	0.937183 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99455	0.934144 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99454	0.935664 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994719	0.93769 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 10:59:28, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 10:59:28, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994663	0.934518 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994725	0.937056 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994799	0.936548 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995021	0.938579 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994592	0.936041 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994553	0.935025 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994829	0.936548 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994662	0.932995 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994539	0.936548 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994817	0.939086 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:00:11, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:00:11, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994722	0.93629 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994689	0.938328 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995386	0.941896 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995046	0.937819 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994703	0.936799 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994625	0.93629 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994924	0.938328 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994661	0.93476 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994878	0.939348 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994989	0.939348 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:01:04, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:01:04, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994959	0.940574 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994712	0.938012 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99544	0.944672 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995216	0.941598 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994831	0.939037 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994701	0.939037 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995028	0.939037 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994754	0.938525 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99496	0.941086 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995078	0.943135 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:02:02, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:02:02, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.995128	0.940783 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994841	0.939753 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995558	0.946447 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995255	0.940783 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994954	0.940268 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994857	0.940783 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995088	0.940268 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994819	0.940783 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995087	0.941813 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995225	0.943357 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:03:01, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:22:57, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994412	0.933905 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994412	0.933905 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:23:58, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:23:58, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994427	0.933771 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994582	0.935288 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994555	0.933771 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994428	0.93276 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994437	0.935288 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994386	0.934783 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994373	0.93276 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994435	0.933771 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99443	0.934783 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994492	0.936299 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:24:56, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:24:56, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994641	0.935157 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994657	0.935157 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994639	0.935157 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994513	0.935157 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994516	0.93617 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994445	0.935157 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994684	0.937183 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99455	0.934144 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99454	0.935664 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994719	0.93769 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:25:55, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:25:55, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994663	0.934518 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994725	0.937056 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994799	0.936548 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995021	0.938579 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994592	0.936041 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994553	0.935025 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994829	0.936548 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994662	0.932995 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994539	0.936548 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994817	0.939086 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:26:51, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:26:51, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994722	0.93629 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994689	0.938328 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995386	0.941896 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995046	0.937819 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994703	0.936799 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994625	0.93629 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994924	0.938328 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994661	0.93476 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994878	0.939348 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994989	0.939348 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:27:49, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:27:49, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.994959	0.940574 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994712	0.938012 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99544	0.944672 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995216	0.941598 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994831	0.939037 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994701	0.939037 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995028	0.939037 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994754	0.938525 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.99496	0.941086 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995078	0.943135 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:28:48, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = <==========  BEGIN @ 29-Nov-2012 11:28:49, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2 = 1,  thr = 0.3, beta = 10000============>
+******0.995128	0.940783 @ round=1, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994841	0.939753 @ round=2, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995558	0.946447 @ round=3, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995255	0.940783 @ round=4, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994954	0.940268 @ round=5, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994857	0.940783 @ round=6, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995088	0.940268 @ round=7, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.994819	0.940783 @ round=8, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995087	0.941813 @ round=9, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+******0.995225	0.943357 @ round=10, C=1, lambda_L=1, lambda_D1=1, lambda_D2=1, thr=0.3
+<==========  END @ 29-Nov-2012 11:29:48, C = 1, lambda_L = 1, lambda_D1 = 1, lambda_D2, thr = 1, beta = 0.3 ============>
+<==========  END @ , C = 

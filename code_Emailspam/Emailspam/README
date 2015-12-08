@@ -1,0 +1,29 @@
+Introduction
+-------------------------------------------------------------
+This folder contains the codes used to obtain the experimental results on Email spam dataset in [2]. 
+
+Requirements
+-------------------------------------------------------------
+1. If you have downloaded the dataset from http://vc.sce.ntu.edu.sg/transfer_learning_domain_adaptation/DAM-TNNLS2012/data_emailspam.zip and extract it to the data folder, please do it first.  
+
+2. KMM algorithm need the Mosek software, please modify the setpath.m file to added the Mosek toolbox to the environment.
+
+3. The code is tested 64-bit Matlab installed 64-bit Windows, you may need recompile the mex files in the utils folder when run on other environment.
+
+File Descriptions
+---------------------------------------------------------------
+
+1. run_xxx.m, main_xxx.m, and show_result_all_xxx.m are the codes for algorithm xxx (e.g. fast_dam). The first two are used to obtain the results while the last one is used to print out existing results.
+   
+How to Run?
+---------------------------------------------------------------
+If the data set are prepared stored, you can execute 
+   >>run_exp
+to obtain the experimental results. 
+
+
+References
+--------------------
+[1] L. Duan, Ivor W. Tsang, D. Xu and T. -S. Chua, " Domain Adaptation from Multiple Sources via Auxiliary Classifiers," in International Conference On Machine Learning (ICML), 2009.
+
+[2] L. Duan, D. Xu and I. W. Tsang, " Domain Adaptation from Multiple Sources: A Domain-Dependent Regularization Approach," IEEE Trans. on Neural Networks and Learning Systems (T-NNLS), 23(3), pp. 504-518, March 2012.

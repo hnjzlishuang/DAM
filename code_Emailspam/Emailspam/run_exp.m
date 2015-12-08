@@ -1,0 +1,10 @@
+run_svm_s;
+run_svm_t;
+run_svm_at;
+run_svm_fr;
+run_mcc_svm;
+run_multi_kmm;
+save_mmd_at;
+save_mmd_fr;
+run_fast_dam;
+run_univer_dam;

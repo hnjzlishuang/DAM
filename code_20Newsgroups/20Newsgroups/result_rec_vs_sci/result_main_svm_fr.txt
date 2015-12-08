@@ -1,0 +1,2076 @@
+<==========  BEGIN @ 28-Nov-2012 22:00:04, C = 1 ============>
+<==========  BEGIN @ 28-Nov-2012 22:02:43, C = 1 ============>
+0.815812	0.708291 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874663	0.68908 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.973566	0.902427 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.959875	0.503033 @ round=1, C=1
+NO_SIGMIOD 0.959916	0.828109 @ round=1, C=1
+0.658021	0.563701 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.72995	0.524267 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.949642	0.805359 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.863301	0.503033 @ round=2, C=1
+NO_SIGMIOD 0.862846	0.625885 @ round=2, C=1
+0.780081	0.726491 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.832596	0.673913 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979549	0.91911 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.958411	0.503033 @ round=3, C=1
+NO_SIGMIOD 0.958514	0.877654 @ round=3, C=1
+0.782087	0.647624 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.818364	0.562184 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.968943	0.870576 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.938432	0.503033 @ round=4, C=1
+NO_SIGMIOD 0.938349	0.719919 @ round=4, C=1
+0.789351	0.693124 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.832437	0.732558 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.970497	0.893327 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.947953	0.503033 @ round=5, C=1
+NO_SIGMIOD 0.947737	0.873104 @ round=5, C=1
+0.79411	0.62639 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.806846	0.721436 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976202	0.912538 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.954073	0.503033 @ round=6, C=1
+NO_SIGMIOD 0.954035	0.830637 @ round=6, C=1
+0.775706	0.674924 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.835681	0.738119 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974841	0.889282 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.957303	0.503033 @ round=7, C=1
+NO_SIGMIOD 0.957596	0.877149 @ round=7, C=1
+0.727039	0.677452 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.766323	0.667341 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.965119	0.891304 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.93178	0.503033 @ round=8, C=1
+NO_SIGMIOD 0.931654	0.851365 @ round=8, C=1
+0.813667	0.552578 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.820401	0.669363 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.966042	0.722952 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.930185	0.503033 @ round=9, C=1
+NO_SIGMIOD 0.930845	0.650657 @ round=9, C=1
+0.766676	0.694135 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.812136	0.555612 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.969683	0.897877 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.945738	0.503033 @ round=10, C=1
+NO_SIGMIOD 0.945741	0.795753 @ round=10, C=1
+<==========  END: 28-Nov-2012 22:02:50 @ , C = <==========  BEGIN @ 28-Nov-2012 22:02:50, C = 1 ============>
+0.844715	0.746707 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.881368	0.762918 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.970275	0.892097 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.955456	0.50304 @ round=1, C=1
+NO_SIGMIOD 0.955457	0.863222 @ round=1, C=1
+0.699554	0.610436 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.774106	0.642351 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.948656	0.853597 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.881523	0.50304 @ round=2, C=1
+NO_SIGMIOD 0.881783	0.748227 @ round=2, C=1
+0.813695	0.752786 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.845579	0.746707 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.978998	0.911854 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.955857	0.50304 @ round=3, C=1
+NO_SIGMIOD 0.956105	0.885005 @ round=3, C=1
+0.865603	0.766464 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.895674	0.682371 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974454	0.902736 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.962137	0.50304 @ round=4, C=1
+NO_SIGMIOD 0.962183	0.836373 @ round=4, C=1
+0.796272	0.724924 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.852745	0.768997 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.969355	0.895643 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.944912	0.50304 @ round=5, C=1
+NO_SIGMIOD 0.944877	0.866768 @ round=5, C=1
+0.846161	0.759878 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.884861	0.753799 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976195	0.89463 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.965124	0.50304 @ round=6, C=1
+NO_SIGMIOD 0.965159	0.863728 @ round=6, C=1
+0.823199	0.663627 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.858242	0.758359 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.975692	0.898176 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.961116	0.50304 @ round=7, C=1
+NO_SIGMIOD 0.961205	0.838906 @ round=7, C=1
+0.864477	0.76849 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.851605	0.774063 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97989	0.923506 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.971374	0.50304 @ round=8, C=1
+NO_SIGMIOD 0.97136	0.903749 @ round=8, C=1
+0.861206	0.687943 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.848934	0.744174 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974212	0.817123 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.959554	0.50304 @ round=9, C=1
+NO_SIGMIOD 0.959903	0.788247 @ round=9, C=1
+0.753623	0.665653 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.827178	0.634245 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.959377	0.882472 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.929594	0.50304 @ round=10, C=1
+NO_SIGMIOD 0.929868	0.797872 @ round=10, C=1
+<==========  END: 28-Nov-2012 22:03:08 @ , C = <==========  BEGIN @ 28-Nov-2012 22:03:08, C = 1 ============>
+0.865759	0.784772 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.889653	0.793401 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.965962	0.892386 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.94786	0.503046 @ round=1, C=1
+NO_SIGMIOD 0.947889	0.86802 @ round=1, C=1
+0.782155	0.699492 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.84611	0.721827 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.965709	0.885787 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.930425	0.503046 @ round=2, C=1
+NO_SIGMIOD 0.930718	0.824873 @ round=2, C=1
+0.85648	0.787817 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.893667	0.756345 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.98158	0.921827 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967362	0.503046 @ round=3, C=1
+NO_SIGMIOD 0.967373	0.890355 @ round=3, C=1
+0.869393	0.767513 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.907665	0.636041 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.977824	0.893909 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.963352	0.503046 @ round=4, C=1
+NO_SIGMIOD 0.963365	0.807107 @ round=4, C=1
+0.798023	0.725888 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.858991	0.731472 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.961018	0.881218 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.926573	0.503046 @ round=5, C=1
+NO_SIGMIOD 0.926644	0.826904 @ round=5, C=1
+0.848677	0.761421 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.872897	0.783249 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.972916	0.907614 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.945501	0.503046 @ round=6, C=1
+NO_SIGMIOD 0.945634	0.867005 @ round=6, C=1
+0.836471	0.737056 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874437	0.779695 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976055	0.909645 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956137	0.503046 @ round=7, C=1
+NO_SIGMIOD 0.956171	0.880203 @ round=7, C=1
+0.861688	0.718274 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.89649	0.714721 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.980998	0.920305 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.973015	0.503046 @ round=8, C=1
+NO_SIGMIOD 0.973042	0.851777 @ round=8, C=1
+0.884293	0.826396 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.880891	0.774112 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.977965	0.889848 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967727	0.503046 @ round=9, C=1
+NO_SIGMIOD 0.967845	0.885279 @ round=9, C=1
+0.826759	0.731472 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874173	0.684772 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.971723	0.906599 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956067	0.503046 @ round=10, C=1
+NO_SIGMIOD 0.956284	0.850761 @ round=10, C=1
+<==========  END: 28-Nov-2012 22:03:27 @ , C = <==========  BEGIN @ 28-Nov-2012 22:03:27, C = 1 ============>
+0.912817	0.831295 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.924795	0.832824 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974345	0.909276 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.962971	0.503058 @ round=1, C=1
+NO_SIGMIOD 0.962974	0.896534 @ round=1, C=1
+0.835044	0.759429 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.870318	0.7737 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.968485	0.899592 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.936299	0.503058 @ round=2, C=1
+NO_SIGMIOD 0.936461	0.853211 @ round=2, C=1
+0.900707	0.820591 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.896884	0.810907 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983708	0.932212 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.969423	0.503058 @ round=3, C=1
+NO_SIGMIOD 0.969408	0.900612 @ round=3, C=1
+0.911288	0.830785 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.927217	0.828746 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.978736	0.924567 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96646	0.503058 @ round=4, C=1
+NO_SIGMIOD 0.966386	0.907238 @ round=4, C=1
+0.83445	0.755352 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.88683	0.791539 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.957615	0.884302 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.932577	0.503058 @ round=5, C=1
+NO_SIGMIOD 0.932686	0.848624 @ round=5, C=1
+0.896086	0.809888 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.92045	0.828746 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979175	0.920489 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.965964	0.503058 @ round=6, C=1
+NO_SIGMIOD 0.965974	0.894495 @ round=6, C=1
+0.862141	0.760449 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.910996	0.746687 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974918	0.900102 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956336	0.503058 @ round=7, C=1
+NO_SIGMIOD 0.956402	0.846075 @ round=7, C=1
+0.907425	0.796636 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.922729	0.818043 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983429	0.923547 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.978446	0.503058 @ round=8, C=1
+NO_SIGMIOD 0.978465	0.900102 @ round=8, C=1
+0.888015	0.810907 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.892749	0.804791 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976746	0.911825 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.963487	0.503058 @ round=9, C=1
+NO_SIGMIOD 0.963658	0.897554 @ round=9, C=1
+0.864495	0.803772 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.88367	0.783894 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976597	0.920999 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96156	0.503058 @ round=10, C=1
+NO_SIGMIOD 0.961616	0.899083 @ round=10, C=1
+<==========  END: 28-Nov-2012 22:03:46 @ , C = <==========  BEGIN @ 28-Nov-2012 22:03:46, C = 1 ============>
+0.932975	0.86168 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.93549	0.842213 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976409	0.914447 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967823	0.503074 @ round=1, C=1
+NO_SIGMIOD 0.967828	0.904201 @ round=1, C=1
+0.902343	0.835041 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.901468	0.823258 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976209	0.917008 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.955849	0.503074 @ round=2, C=1
+NO_SIGMIOD 0.955977	0.882684 @ round=2, C=1
+0.941402	0.865266 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.945547	0.866291 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.986053	0.940061 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.981423	0.503074 @ round=3, C=1
+NO_SIGMIOD 0.981371	0.923156 @ round=3, C=1
+0.922988	0.831455 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.930238	0.835553 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976492	0.921619 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96287	0.503074 @ round=4, C=1
+NO_SIGMIOD 0.962877	0.896516 @ round=4, C=1
+0.899993	0.820184 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.924253	0.842213 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.968103	0.902152 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.95546	0.503074 @ round=5, C=1
+NO_SIGMIOD 0.955499	0.883197 @ round=5, C=1
+0.937175	0.845287 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.931623	0.839652 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979986	0.927254 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96905	0.503074 @ round=6, C=1
+NO_SIGMIOD 0.969043	0.903176 @ round=6, C=1
+0.919428	0.849898 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.931672	0.840164 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.98135	0.928279 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.968117	0.503074 @ round=7, C=1
+NO_SIGMIOD 0.968137	0.910861 @ round=7, C=1
+0.945137	0.856045 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.94997	0.864242 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983802	0.92623 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.981715	0.503074 @ round=8, C=1
+NO_SIGMIOD 0.981708	0.921107 @ round=8, C=1
+0.933033	0.861168 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.918666	0.835553 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979691	0.91957 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.969743	0.503074 @ round=9, C=1
+NO_SIGMIOD 0.969795	0.905225 @ round=9, C=1
+0.874714	0.807889 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.908041	0.8125 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974173	0.914959 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956632	0.503074 @ round=10, C=1
+NO_SIGMIOD 0.956655	0.893955 @ round=10, C=1
+<==========  END: 28-Nov-2012 22:04:05 @ , C = <==========  BEGIN @ 28-Nov-2012 22:04:05, C = 1 ============>
+0.94306	0.863543 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.942181	0.864058 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.981953	0.930999 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.972572	0.50309 @ round=1, C=1
+NO_SIGMIOD 0.972556	0.909372 @ round=1, C=1
+0.914459	0.84758 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.916234	0.838826 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.978967	0.923275 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.959005	0.50309 @ round=2, C=1
+NO_SIGMIOD 0.959138	0.891864 @ round=2, C=1
+0.959261	0.892379 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.959927	0.872812 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.990019	0.944902 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.98625	0.50309 @ round=3, C=1
+NO_SIGMIOD 0.986212	0.935118 @ round=3, C=1
+0.935596	0.857878 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.947805	0.855819 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976524	0.92173 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967043	0.50309 @ round=4, C=1
+NO_SIGMIOD 0.966984	0.903193 @ round=4, C=1
+0.935596	0.856334 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.94753	0.858393 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.972782	0.907312 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.966001	0.50309 @ round=5, C=1
+NO_SIGMIOD 0.965998	0.891349 @ round=5, C=1
+0.956616	0.886715 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.954545	0.877446 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983364	0.92585 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.978449	0.50309 @ round=6, C=1
+NO_SIGMIOD 0.978398	0.918126 @ round=6, C=1
+0.921682	0.850154 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.937902	0.84243 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.980806	0.922245 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.966543	0.50309 @ round=7, C=1
+NO_SIGMIOD 0.966573	0.900618 @ round=7, C=1
+0.955014	0.873841 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.968951	0.899588 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.985916	0.936148 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.984735	0.50309 @ round=8, C=1
+NO_SIGMIOD 0.984705	0.933059 @ round=8, C=1
+0.953355	0.879506 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.948563	0.867662 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.982392	0.929454 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.977109	0.50309 @ round=9, C=1
+NO_SIGMIOD 0.977079	0.919156 @ round=9, C=1
+0.924685	0.855819 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.947088	0.860968 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.981095	0.929969 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.973379	0.50309 @ round=10, C=1
+NO_SIGMIOD 0.973351	0.917611 @ round=10, C=1
+<==========  END: 28-Nov-2012 22:04:24 @ , C = <==========  BEGIN @ 29-Nov-2012 09:22:49, C = 1 ============>
+<==========  BEGIN @ 29-Nov-2012 09:24:32, C = 1 ============>
+<==========  BEGIN @ 29-Nov-2012 09:25:03, C = 1 ============>
+<==========  BEGIN @ 29-Nov-2012 09:27:10, C = 1 ============>
+<==========  BEGIN @ 29-Nov-2012 09:30:25, C = 1 ============>
+0.713168	0.576186 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=1, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=1, C=1
+0.713168	0.576186 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=2, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=2, C=1
+0.713168	0.576186 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=3, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=3, C=1
+0.713168	0.576186 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=4, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=4, C=1
+0.713168	0.576186 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=5, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=5, C=1
+0.713168	0.576186 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=6, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=6, C=1
+0.713168	0.576186 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=7, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=7, C=1
+0.713168	0.576186 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=8, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=8, C=1
+0.713168	0.576186 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=9, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=9, C=1
+0.713168	0.576186 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.711631	0.591322 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.708088	0.599395 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.704772	0.605449 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.702963	0.605449 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.699235	0.605449 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.767919	0.60444 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.763716	0.608981 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.757591	0.610999 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752007	0.616549 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.748701	0.616549 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.74866	0.617053 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97585	0.883451 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976553	0.878406 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976979	0.880928 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977311	0.87891 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977514	0.874874 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977546	0.869828 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966438	0.503027 @ round=10, C=1
+NO_SIGMIOD 0.966432	0.880424 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:32:19 @ , C = <==========  BEGIN @ 29-Nov-2012 09:32:19, C = 1 ============>
+0.815812	0.708291 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.834505	0.705763 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.836728	0.718908 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.836564	0.72093 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.836155	0.719919 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.834144	0.72093 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.874663	0.68908 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.872521	0.781092 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.870587	0.778564 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.868117	0.778564 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.86618	0.777048 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.865438	0.775531 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.973566	0.902427 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975301	0.89181 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.975689	0.893327 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.976111	0.892821 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.976285	0.894843 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976246	0.89636 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.960348	0.503033 @ round=1, C=1
+NO_SIGMIOD 0.960347	0.859454 @ round=1, C=1
+0.658021	0.563701 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.662192	0.565723 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.660343	0.565723 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.658853	0.566229 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.657542	0.566229 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.65526	0.566734 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.72995	0.524267 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.71623	0.552578 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.710848	0.549545 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.705845	0.548534 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.703265	0.546006 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.703109	0.545501 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.949642	0.805359 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.945478	0.82002 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.946415	0.82457 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.947559	0.826593 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.94804	0.830131 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.948146	0.833165 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.854401	0.503033 @ round=2, C=1
+NO_SIGMIOD 0.854052	0.640546 @ round=2, C=1
+0.780081	0.726491 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.784329	0.733064 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.781801	0.732558 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.779965	0.735592 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.778621	0.73458 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.775834	0.731041 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.832596	0.673913 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.830369	0.773003 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.825395	0.76542 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.821318	0.763397 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.819059	0.762386 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.81839	0.762386 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.979549	0.91911 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.980189	0.922144 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.980499	0.923155 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.980709	0.922649 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.980959	0.925177 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.981028	0.927199 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.956171	0.503033 @ round=3, C=1
+NO_SIGMIOD 0.956257	0.890799 @ round=3, C=1
+0.782087	0.647624 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.788673	0.631446 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.785982	0.629929 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.784041	0.625885 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.78178	0.625379 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.778267	0.626896 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.818364	0.562184 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.807709	0.610212 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.80313	0.609201 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.798537	0.605662 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.795838	0.602123 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.794713	0.598584 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.968943	0.870576 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.97004	0.870576 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.970373	0.869565 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.97079	0.868554 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.970818	0.867543 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.970599	0.867543 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.935481	0.503033 @ round=4, C=1
+NO_SIGMIOD 0.935515	0.728008 @ round=4, C=1
+0.789351	0.693124 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.7907	0.730536 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.790012	0.726997 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.789814	0.724975 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.789927	0.72548 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.787494	0.724975 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.832437	0.732558 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.831413	0.742669 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.828219	0.740647 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.825256	0.735592 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.823197	0.736603 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.822868	0.733569 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.970497	0.893327 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.969863	0.858443 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.968736	0.865015 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.968365	0.872093 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.96909	0.875632 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.969532	0.875126 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.941586	0.503033 @ round=5, C=1
+NO_SIGMIOD 0.94165	0.853893 @ round=5, C=1
+0.79411	0.62639 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.791995	0.654702 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.788572	0.649646 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.78705	0.642063 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.786098	0.641557 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.783286	0.639535 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.806846	0.721436 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.809448	0.713852 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.806302	0.710313 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.803533	0.71183 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.801867	0.712841 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.801602	0.712841 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976202	0.912538 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975412	0.908493 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.975899	0.911527 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.976271	0.916077 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.976501	0.916582 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976574	0.918099 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.953464	0.503033 @ round=6, C=1
+NO_SIGMIOD 0.953362	0.832154 @ round=6, C=1
+0.775706	0.674924 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.780937	0.706269 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.779145	0.715369 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.777607	0.712841 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.776978	0.709808 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.773647	0.706269 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.835681	0.738119 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.835949	0.763397 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.833654	0.761881 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.831749	0.760364 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.830874	0.757836 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.831089	0.758342 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.974841	0.889282 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.97549	0.894843 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.975862	0.897371 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.976311	0.895854 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.976561	0.892315 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976748	0.892315 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.958109	0.503033 @ round=7, C=1
+NO_SIGMIOD 0.958499	0.881193 @ round=7, C=1
+0.727039	0.677452 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.744394	0.689585 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.742258	0.695652 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.741544	0.694135 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.739702	0.695147 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.736501	0.68908 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.766323	0.667341 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.761426	0.674419 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.755987	0.654702 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.752803	0.653691 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.751237	0.652679 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.750976	0.652679 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.965119	0.891304 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.970433	0.856421 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.970724	0.860465 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.970994	0.85996 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.971025	0.862993 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.970826	0.867037 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.932694	0.503033 @ round=8, C=1
+NO_SIGMIOD 0.932755	0.826593 @ round=8, C=1
+0.813667	0.552578 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.797459	0.600101 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.795326	0.595551 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.79377	0.591507 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.792879	0.587968 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.790026	0.584429 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.820401	0.669363 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.816926	0.659252 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.812905	0.656724 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.808265	0.654196 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.805364	0.649646 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.803519	0.646613 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.966042	0.722952 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.965503	0.72548 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.965623	0.725986 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.965716	0.726997 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.96577	0.728008 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.965755	0.727503 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.922713	0.503033 @ round=9, C=1
+NO_SIGMIOD 0.923468	0.666835 @ round=9, C=1
+0.766676	0.694135 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.763459	0.649141 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.760303	0.633974 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.755987	0.631446 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.749816	0.619818 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.746949	0.619312 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.812136	0.555612 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.806679	0.59454 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.80241	0.59909 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.794465	0.576845 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.786903	0.562184 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.782059	0.548028 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.969683	0.897877 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.967011	0.881699 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.963691	0.85541 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.962046	0.840748 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.962089	0.839737 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.961783	0.840748 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.924402	0.503033 @ round=10, C=1
+NO_SIGMIOD 0.924558	0.722952 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:33:37 @ , C = <==========  BEGIN @ 29-Nov-2012 09:33:37, C = 1 ============>
+0.844715	0.746707 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.854814	0.76849 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.857121	0.775076 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.858973	0.778116 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.858874	0.779129 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.857378	0.774569 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.881368	0.762918 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.878416	0.795846 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.87573	0.79382 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.873794	0.794326 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.872781	0.7923 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.872324	0.791287 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.970275	0.892097 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.970711	0.89311 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.971073	0.894124 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.971514	0.894124 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.971759	0.89615 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.971781	0.897163 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.952896	0.50304 @ round=1, C=1
+NO_SIGMIOD 0.95293	0.873354 @ round=1, C=1
+0.699554	0.610436 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.702446	0.609929 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.701011	0.609929 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.699628	0.609422 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.69845	0.609422 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.696411	0.608916 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.774106	0.642351 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.7516	0.659574 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.747535	0.657548 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.743845	0.651976 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.742191	0.64691 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.742653	0.645897 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.948656	0.853597 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.940493	0.854103 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.941166	0.85461 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.942171	0.856636 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.94274	0.857649 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.94285	0.856636 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.866643	0.50304 @ round=2, C=1
+NO_SIGMIOD 0.867217	0.74772 @ round=2, C=1
+0.813695	0.752786 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.822099	0.75076 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.82504	0.736069 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.826974	0.725937 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.826326	0.724417 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.824795	0.722898 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.845579	0.746707 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.852867	0.775583 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.849272	0.764438 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.845401	0.762411 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.842937	0.763425 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.841898	0.763425 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.978998	0.911854 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.979075	0.909828 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.979385	0.909321 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.979641	0.910334 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.979817	0.911854 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.979951	0.909321 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.954457	0.50304 @ round=3, C=1
+NO_SIGMIOD 0.954599	0.859676 @ round=3, C=1
+0.865603	0.766464 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.878256	0.783181 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.880141	0.794833 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.88092	0.798379 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.880004	0.797872 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.87869	0.796353 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.895674	0.682371 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.898886	0.777102 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.899879	0.78926 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.900645	0.794833 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.900565	0.798886 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.900621	0.798379 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.974454	0.902736 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.974818	0.901216 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.975137	0.899189 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.975381	0.89615 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.975438	0.898176 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.975408	0.898683 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.961513	0.50304 @ round=4, C=1
+NO_SIGMIOD 0.96156	0.869807 @ round=4, C=1
+0.796272	0.724924 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.80549	0.735562 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.804835	0.733536 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.804104	0.736575 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.803977	0.737589 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.802417	0.735056 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.852745	0.768997 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.853187	0.765957 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.851076	0.764438 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.848772	0.762411 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.847419	0.762918 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.847436	0.760892 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.969355	0.895643 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.969926	0.87386 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.969075	0.878926 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.968552	0.883485 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.969256	0.886018 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.969696	0.887538 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.940355	0.50304 @ round=5, C=1
+NO_SIGMIOD 0.940454	0.85461 @ round=5, C=1
+0.846161	0.759878 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.854584	0.764944 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.853538	0.761398 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.853123	0.761905 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.852923	0.760892 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.850923	0.756332 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.884861	0.753799 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.883181	0.782675 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.88061	0.778116 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.878173	0.772036 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.876779	0.770517 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.876576	0.768997 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976195	0.89463 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.978203	0.887031 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.978536	0.886525 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.978922	0.887538 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.979094	0.890071 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.979141	0.892097 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966229	0.50304 @ round=6, C=1
+NO_SIGMIOD 0.966287	0.867275 @ round=6, C=1
+0.823199	0.663627 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.830462	0.717832 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.830761	0.720871 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.830022	0.720365 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.829729	0.720365 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.82773	0.715299 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.858242	0.758359 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.859517	0.760385 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.8582	0.760892 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.857094	0.760892 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.856863	0.760385 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.856924	0.759372 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.975692	0.898176 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.973317	0.909828 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.973908	0.908308 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.974396	0.905775 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.974826	0.904762 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.975191	0.904255 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.955824	0.50304 @ round=7, C=1
+NO_SIGMIOD 0.955897	0.857143 @ round=7, C=1
+0.864477	0.76849 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.880777	0.802432 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.879649	0.786727 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.878811	0.799392 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.877883	0.798886 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.875703	0.794326 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.851605	0.774063 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.858092	0.782675 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.859169	0.782675 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.859617	0.779129 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.85919	0.780142 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.858436	0.779129 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.97989	0.923506 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.980703	0.921479 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.980793	0.921986 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.981061	0.919959 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.981249	0.919959 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.981403	0.920466 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.969796	0.50304 @ round=8, C=1
+NO_SIGMIOD 0.969849	0.903749 @ round=8, C=1
+0.861206	0.687943 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.863541	0.681358 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.862311	0.664134 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.860294	0.659068 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.858737	0.657042 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.856438	0.655522 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.848934	0.744174 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.855064	0.735056 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.851072	0.724924 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.847806	0.723404 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.845861	0.722391 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.844781	0.721884 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.974212	0.817123 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.974759	0.816109 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.974871	0.81459 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.974992	0.816109 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.975108	0.812563 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.97523	0.811044 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.955678	0.50304 @ round=9, C=1
+NO_SIGMIOD 0.956057	0.764944 @ round=9, C=1
+0.753623	0.665653 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.755639	0.656028 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.754821	0.662107 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.75253	0.659068 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.750464	0.657548 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.746741	0.655015 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.827178	0.634245 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.815281	0.696049 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.810732	0.693516 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.806216	0.688956 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.803084	0.682877 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.801429	0.680851 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.959377	0.882472 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.95584	0.882979 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.955358	0.880952 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.954759	0.881966 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.953302	0.885512 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.952483	0.882979 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.915562	0.50304 @ round=10, C=1
+NO_SIGMIOD 0.916026	0.81003 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:35:05 @ , C = <==========  BEGIN @ 29-Nov-2012 09:35:06, C = 1 ============>
+0.865759	0.784772 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874871	0.78731 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.873907	0.78731 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.871919	0.783249 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.869405	0.778173 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.868421	0.776142 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.889653	0.793401 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.889367	0.807107 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.886392	0.804569 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.884642	0.803046 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.883812	0.804569 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.883937	0.803553 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.965962	0.892386 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.966037	0.889848 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.965811	0.889848 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.966135	0.888325 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.966544	0.888832 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.966821	0.889848 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.945732	0.503046 @ round=1, C=1
+NO_SIGMIOD 0.945739	0.865482 @ round=1, C=1
+0.782155	0.699492 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.802616	0.719797 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.808649	0.727411 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.814644	0.735533 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.818888	0.74264 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.816463	0.741117 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.84611	0.721827 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.843972	0.761421 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.84839	0.772589 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.850718	0.777665 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.853545	0.785787 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.853139	0.785279 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.965709	0.885787 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.965698	0.893909 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.967659	0.89797 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.968146	0.898985 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.968366	0.9 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.968411	0.9 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.935061	0.503046 @ round=2, C=1
+NO_SIGMIOD 0.935318	0.852792 @ round=2, C=1
+0.85648	0.787817 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.864525	0.794924 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.868052	0.795431 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.872069	0.796447 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.876269	0.805584 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.879414	0.806091 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.893667	0.756345 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.901142	0.827919 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.90182	0.832487 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.90264	0.83198 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.90446	0.832995 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.905225	0.821827 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.98158	0.921827 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.981019	0.923858 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.981468	0.924365 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.981426	0.924365 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.981558	0.924365 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.981616	0.926396 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966954	0.503046 @ round=3, C=1
+NO_SIGMIOD 0.967038	0.9 @ round=3, C=1
+0.869393	0.767513 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874528	0.788832 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.878226	0.805584 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.879035	0.806599 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.878102	0.808122 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.876525	0.806091 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.907665	0.636041 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.904101	0.710152 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.908779	0.734518 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.9097	0.747208 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.910066	0.757868 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.910375	0.75533 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.977824	0.893909 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976838	0.898477 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976648	0.901015 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.976787	0.901523 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.976825	0.902538 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976829	0.901523 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.960401	0.503046 @ round=4, C=1
+NO_SIGMIOD 0.960419	0.856345 @ round=4, C=1
+0.798023	0.725888 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.803772	0.728934 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.806476	0.724873 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.80875	0.725381 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.810236	0.726396 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.807867	0.724365 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.858991	0.731472 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.852503	0.75736 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.851873	0.753299 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.850683	0.748731 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.850589	0.745178 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.851901	0.747208 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.961018	0.881218 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.963095	0.880711 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.963551	0.882234 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.96416	0.886294 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.964282	0.885279 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.964399	0.888325 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.923417	0.503046 @ round=5, C=1
+NO_SIGMIOD 0.923681	0.827919 @ round=5, C=1
+0.848677	0.761421 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.850167	0.765482 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.84927	0.764467 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.849223	0.764467 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.849249	0.763452 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.847998	0.759898 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.872897	0.783249 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.882105	0.801523 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.87985	0.801523 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.877961	0.796954 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.876758	0.797462 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.876451	0.794924 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.972916	0.907614 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.971974	0.909645 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.972239	0.91066 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.972701	0.912183 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.972992	0.914213 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.973174	0.915736 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.945948	0.503046 @ round=6, C=1
+NO_SIGMIOD 0.946048	0.866497 @ round=6, C=1
+0.836471	0.737056 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.841032	0.750761 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.838039	0.754822 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.836625	0.755838 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.836087	0.753807 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.83447	0.752792 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.874437	0.779695 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.877063	0.78934 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.876919	0.786802 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.874798	0.786294 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.873362	0.782741 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.873766	0.782234 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976055	0.909645 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975838	0.915736 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.975436	0.913706 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.975533	0.913706 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.975748	0.914721 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.975823	0.913198 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.952962	0.503046 @ round=7, C=1
+NO_SIGMIOD 0.953097	0.877157 @ round=7, C=1
+0.861688	0.718274 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.892452	0.745685 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.89784	0.776142 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.901748	0.795431 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.902005	0.803553 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.899855	0.804061 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.89649	0.714721 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.898136	0.779188 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.90061	0.794416 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.904377	0.813198 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.904721	0.813706 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.904321	0.81066 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.980998	0.920305 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.982389	0.921827 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.982498	0.924365 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.982734	0.926396 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.982865	0.926904 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.982869	0.928426 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.975582	0.503046 @ round=8, C=1
+NO_SIGMIOD 0.975607	0.887817 @ round=8, C=1
+0.884293	0.826396 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.90244	0.835025 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.907657	0.807107 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.909005	0.788325 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.908163	0.787817 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.90724	0.788832 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.880891	0.774112 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.892102	0.764975 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.889942	0.754315 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.887613	0.754822 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.886457	0.751777 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.885851	0.749746 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.977965	0.889848 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.978441	0.881218 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.97872	0.880203 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.97892	0.881218 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.979087	0.881726 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.979105	0.880711 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.967819	0.503046 @ round=9, C=1
+NO_SIGMIOD 0.967938	0.858376 @ round=9, C=1
+0.826759	0.731472 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.825784	0.727411 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.82488	0.729949 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.823294	0.729442 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.819689	0.723858 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.815001	0.718782 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.874173	0.684772 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.859705	0.760914 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.85698	0.771066 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.853498	0.769036 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.851376	0.767005 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.849761	0.763959 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.971723	0.906599 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.965854	0.89797 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.965397	0.897462 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.964757	0.895939 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.963565	0.894924 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.96196	0.894416 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.94085	0.503046 @ round=10, C=1
+NO_SIGMIOD 0.94131	0.853807 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:36:34 @ , C = <==========  BEGIN @ 29-Nov-2012 09:36:34, C = 1 ============>
+0.912817	0.831295 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.922721	0.846075 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.923624	0.845566 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.923833	0.846075 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.922501	0.844037 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.921352	0.839959 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.924795	0.832824 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.929507	0.845056 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.928551	0.845566 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.927927	0.845566 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.92751	0.845566 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.927447	0.845056 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.974345	0.909276 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975569	0.912334 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976096	0.913354 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.976107	0.913863 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.976279	0.912334 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976439	0.912844 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.964452	0.503058 @ round=1, C=1
+NO_SIGMIOD 0.964446	0.896534 @ round=1, C=1
+0.835044	0.759429 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.847493	0.771662 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.851427	0.775739 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.852536	0.778797 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.851653	0.777778 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.849912	0.773191 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.870318	0.7737 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.872756	0.798165 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.876935	0.803772 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.878417	0.80581 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.877543	0.805301 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.876812	0.805301 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.968485	0.899592 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.967583	0.897044 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.968273	0.899592 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.968724	0.901631 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.968863	0.900612 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.968769	0.900612 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.937266	0.503058 @ round=2, C=1
+NO_SIGMIOD 0.937403	0.858818 @ round=2, C=1
+0.900707	0.820591 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.907664	0.82314 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.910901	0.828746 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.914372	0.832824 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.917859	0.836901 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.920296	0.844546 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.896884	0.810907 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.915074	0.827217 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.916047	0.831804 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.917847	0.834862 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.920612	0.839959 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.924058	0.841998 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.983708	0.932212 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.984321	0.93476 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.984681	0.93476 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.984996	0.936799 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.985168	0.937819 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.985281	0.93578 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.973033	0.503058 @ round=3, C=1
+NO_SIGMIOD 0.973018	0.906728 @ round=3, C=1
+0.911288	0.830785 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.911911	0.829256 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.912064	0.824159 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.913426	0.821611 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.913441	0.817023 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.912777	0.816514 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.927217	0.828746 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.937269	0.848624 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.938154	0.852192 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.938635	0.851172 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.939314	0.851682 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.939875	0.855759 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.978736	0.924567 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.979106	0.927625 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.979423	0.930173 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.979579	0.928135 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.979655	0.928644 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.979702	0.929664 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.96651	0.503058 @ round=4, C=1
+NO_SIGMIOD 0.966473	0.908257 @ round=4, C=1
+0.83445	0.755352 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.849828	0.768603 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.855002	0.775739 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.853485	0.772681 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.853233	0.769623 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.851741	0.769623 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.88683	0.791539 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.887146	0.816004 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.889873	0.819572 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.888168	0.817023 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.887825	0.818552 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.888028	0.816514 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.957615	0.884302 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.95943	0.880734 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.960189	0.882263 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.960771	0.881753 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.960973	0.883792 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.961191	0.884811 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.933652	0.503058 @ round=5, C=1
+NO_SIGMIOD 0.933778	0.852192 @ round=5, C=1
+0.896086	0.809888 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.904433	0.812946 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.904353	0.814985 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.90447	0.815494 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.903467	0.814985 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.901887	0.817023 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.92045	0.828746 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.924294	0.836901 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.923269	0.832314 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.922557	0.829256 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.921937	0.829256 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.92197	0.828746 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.979175	0.920489 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.979944	0.923547 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.980159	0.923038 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.980364	0.923547 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.98042	0.924567 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.980409	0.923547 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.965892	0.503058 @ round=6, C=1
+NO_SIGMIOD 0.965926	0.898573 @ round=6, C=1
+0.862141	0.760449 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.864406	0.769623 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.866561	0.771152 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.868042	0.77472 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.869239	0.775229 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.86873	0.77421 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.910996	0.746687 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.905417	0.789501 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.90668	0.798675 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.906818	0.801733 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.906557	0.803772 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.906643	0.804791 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.974918	0.900102 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.974137	0.901121 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.974085	0.899592 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.974763	0.90265 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.97499	0.90367 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.974919	0.902141 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.952908	0.503058 @ round=7, C=1
+NO_SIGMIOD 0.953024	0.860856 @ round=7, C=1
+0.907425	0.796636 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.929143	0.817533 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.932701	0.836391 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.933806	0.843527 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.933677	0.843527 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.932402	0.841998 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.922729	0.818043 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.93075	0.825688 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.932452	0.826198 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.934003	0.830785 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.934841	0.835372 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.934679	0.832824 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.983429	0.923547 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.984615	0.91896 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.984784	0.91947 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.985104	0.921509 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.985279	0.924567 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.985345	0.927115 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.980356	0.503058 @ round=8, C=1
+NO_SIGMIOD 0.98035	0.90265 @ round=8, C=1
+0.888015	0.810907 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.891875	0.82212 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.898778	0.836391 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.902669	0.839959 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.903058	0.83792 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.902513	0.83843 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.892749	0.804791 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.895449	0.82263 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.894712	0.821611 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.893905	0.820591 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.893859	0.820082 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.894024	0.819572 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976746	0.911825 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975472	0.90316 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.975891	0.904689 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.976183	0.906728 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.976285	0.907238 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976375	0.907238 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.960581	0.503058 @ round=9, C=1
+NO_SIGMIOD 0.960764	0.895005 @ round=9, C=1
+0.864495	0.803772 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.866992	0.80632 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.869579	0.810907 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.873133	0.812436 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.879301	0.811927 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.882982	0.812436 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.88367	0.783894 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.886043	0.813456 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.888634	0.811927 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.889918	0.817023 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.892647	0.820591 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.894759	0.819572 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976597	0.920999 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975744	0.916412 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976481	0.917431 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977708	0.91998 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977778	0.91896 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976926	0.917941 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.958689	0.503058 @ round=10, C=1
+NO_SIGMIOD 0.958912	0.898063 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:38:03 @ , C = <==========  BEGIN @ 29-Nov-2012 09:38:03, C = 1 ============>
+0.932975	0.86168 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.936002	0.856045 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.938206	0.858607 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.939922	0.861168 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.940688	0.859119 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.940628	0.858607 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.93549	0.842213 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.938731	0.856045 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.938303	0.85502 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.938245	0.85707 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.938391	0.857582 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.938574	0.858607 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976409	0.914447 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.975608	0.916496 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.976536	0.918033 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977109	0.915471 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977655	0.915984 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977971	0.918033 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.968506	0.503074 @ round=1, C=1
+NO_SIGMIOD 0.968539	0.90625 @ round=1, C=1
+0.902343	0.835041 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.911923	0.834529 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.912705	0.834529 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.912469	0.836578 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.912252	0.836578 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.911589	0.835553 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.901468	0.823258 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.907078	0.829918 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.907458	0.829918 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.906641	0.828893 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.906033	0.829406 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.90544	0.829406 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976209	0.917008 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.977193	0.918033 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.977518	0.920594 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.97771	0.921107 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977889	0.921107 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977996	0.922643 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.957635	0.503074 @ round=2, C=1
+NO_SIGMIOD 0.957705	0.884734 @ round=2, C=1
+0.941402	0.865266 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.949112	0.873975 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.950483	0.869365 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.951621	0.869877 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.952054	0.870389 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.951718	0.869365 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.945547	0.866291 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.953444	0.879611 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.953995	0.876025 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.953483	0.872951 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.952576	0.873975 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.952524	0.872951 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.986053	0.940061 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.986236	0.941086 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.986347	0.939549 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.98652	0.938525 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.986566	0.938012 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.986636	0.939037 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.981115	0.503074 @ round=3, C=1
+NO_SIGMIOD 0.981109	0.921619 @ round=3, C=1
+0.922988	0.831455 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.924268	0.841701 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.925193	0.845799 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.925417	0.844262 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.925269	0.844262 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.924815	0.842725 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.930238	0.835553 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.938111	0.85041 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.939952	0.848361 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.940243	0.849385 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.940461	0.851434 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.940294	0.851434 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976492	0.921619 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976272	0.920594 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.97665	0.920594 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977006	0.921619 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977197	0.922643 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977427	0.922643 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.963297	0.503074 @ round=4, C=1
+NO_SIGMIOD 0.963271	0.898566 @ round=4, C=1
+0.899993	0.820184 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.915721	0.834016 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.918941	0.834529 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.919965	0.834016 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.919968	0.831967 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.91908	0.829406 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.924253	0.842213 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.927174	0.853996 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.927402	0.85041 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.926266	0.848361 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.925702	0.846824 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.925438	0.847848 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.968103	0.902152 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.970329	0.905225 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.971047	0.90625 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.971159	0.908299 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.971396	0.908299 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.971594	0.908811 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.957961	0.503074 @ round=5, C=1
+NO_SIGMIOD 0.958033	0.882684 @ round=5, C=1
+0.937175	0.845287 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.93209	0.836578 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.931721	0.835553 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.931358	0.835553 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.93098	0.834529 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.930024	0.831455 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.931623	0.839652 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.932854	0.838115 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.932821	0.835553 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.932665	0.834016 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.932293	0.835553 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.932102	0.836578 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.979986	0.927254 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.979445	0.925717 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.979618	0.925717 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.979767	0.927254 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.979887	0.92623 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.979937	0.925717 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.966788	0.503074 @ round=6, C=1
+NO_SIGMIOD 0.966809	0.900615 @ round=6, C=1
+0.919428	0.849898 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.928132	0.85041 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.929885	0.853484 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.929237	0.853484 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.929225	0.853484 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.928811	0.851434 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.931672	0.840164 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.935694	0.856557 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.936791	0.85502 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.936845	0.851434 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.936274	0.852459 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.936007	0.850922 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.98135	0.928279 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.982559	0.92418 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.982873	0.925717 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.98293	0.925717 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.98314	0.927254 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.983333	0.92623 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.969722	0.503074 @ round=7, C=1
+NO_SIGMIOD 0.969767	0.907787 @ round=7, C=1
+0.945137	0.856045 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.954861	0.872951 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.956447	0.874488 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.957577	0.874488 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.957646	0.877561 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.956913	0.877561 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.94997	0.864242 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.957304	0.870902 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.958409	0.873463 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.959215	0.878074 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.95953	0.878074 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.959237	0.877561 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.983802	0.92623 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.98456	0.925205 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.984875	0.923668 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.985322	0.924693 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.9855	0.923156 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.985637	0.925717 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.983133	0.503074 @ round=8, C=1
+NO_SIGMIOD 0.98313	0.922643 @ round=8, C=1
+0.933033	0.861168 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.942158	0.86834 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.942729	0.869877 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.942797	0.867316 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.942377	0.864242 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.941939	0.864242 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.918666	0.835553 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.924641	0.846824 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.923295	0.844262 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.92211	0.841701 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.921622	0.843238 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.921277	0.841189 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.979691	0.91957 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.979929	0.918033 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.980196	0.91752 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.980275	0.915984 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.980315	0.915984 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.980268	0.915984 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.969826	0.503074 @ round=9, C=1
+NO_SIGMIOD 0.969884	0.901639 @ round=9, C=1
+0.874714	0.807889 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.875158	0.805328 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.878961	0.806865 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.885292	0.813012 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.89081	0.81916 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.895152	0.820697 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.908041	0.8125 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.902899	0.826332 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.907323	0.831455 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.910436	0.837602 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.914092	0.842725 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.918006	0.848361 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.974173	0.914959 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.971974	0.908811 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.973252	0.910861 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.974757	0.913934 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.975978	0.91291 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.976271	0.911885 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.955292	0.503074 @ round=10, C=1
+NO_SIGMIOD 0.955418	0.884734 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:39:34 @ , C = <==========  BEGIN @ 29-Nov-2012 09:39:34, C = 1 ============>
+0.94306	0.863543 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.950235	0.871782 @ round=1, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.953021	0.872297 @ round=1, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.954895	0.874871 @ round=1, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.954826	0.871782 @ round=1, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.954069	0.874871 @ round=1, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.942181	0.864058 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.948424	0.866117 @ round=1, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.948713	0.865088 @ round=1, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.948598	0.867147 @ round=1, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.948112	0.868692 @ round=1, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.947885	0.869722 @ round=1, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.981953	0.930999 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+0.982407	0.932544 @ round=1, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.982998	0.933059 @ round=1, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.983282	0.930999 @ round=1, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.98353	0.930999 @ round=1, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.983646	0.931514 @ round=1, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.97512	0.50309 @ round=1, C=1
+NO_SIGMIOD 0.975144	0.911432 @ round=1, C=1
+0.914459	0.84758 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.919688	0.853759 @ round=2, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.920768	0.854274 @ round=2, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.921211	0.850154 @ round=2, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.921005	0.84964 @ round=2, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.920513	0.84861 @ round=2, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.916234	0.838826 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.918854	0.849125 @ round=2, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.92019	0.84861 @ round=2, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.919959	0.84758 @ round=2, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.919261	0.846035 @ round=2, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.918717	0.846035 @ round=2, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.978967	0.923275 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+0.978939	0.92482 @ round=2, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.979119	0.92688 @ round=2, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.979308	0.92585 @ round=2, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.979464	0.92688 @ round=2, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.979496	0.92585 @ round=2, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.959535	0.50309 @ round=2, C=1
+NO_SIGMIOD 0.959618	0.890834 @ round=2, C=1
+0.959261	0.892379 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.966934	0.898558 @ round=3, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.968614	0.901648 @ round=3, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.969162	0.897013 @ round=3, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.969895	0.900103 @ round=3, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.969554	0.898558 @ round=3, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.959927	0.872812 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.966379	0.891349 @ round=3, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.967119	0.890834 @ round=3, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.967281	0.891864 @ round=3, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.966864	0.891864 @ round=3, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.96661	0.892894 @ round=3, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.990019	0.944902 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+0.990568	0.946962 @ round=3, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.990904	0.946962 @ round=3, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.991175	0.948507 @ round=3, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.991384	0.950051 @ round=3, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.991536	0.950051 @ round=3, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.987223	0.50309 @ round=3, C=1
+NO_SIGMIOD 0.987234	0.938208 @ round=3, C=1
+0.935596	0.857878 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.937196	0.857878 @ round=4, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.937582	0.854274 @ round=4, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.937944	0.853244 @ round=4, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.937932	0.853759 @ round=4, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.937544	0.853244 @ round=4, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.947805	0.855819 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.952726	0.880536 @ round=4, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.953338	0.882595 @ round=4, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.953446	0.880536 @ round=4, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.953717	0.88208 @ round=4, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.953737	0.880536 @ round=4, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.976524	0.92173 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+0.976828	0.92276 @ round=4, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.977255	0.92276 @ round=4, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.977641	0.923275 @ round=4, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.977748	0.92482 @ round=4, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.977859	0.92585 @ round=4, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.967697	0.50309 @ round=4, C=1
+NO_SIGMIOD 0.967644	0.905252 @ round=4, C=1
+0.935596	0.856334 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.948694	0.876931 @ round=5, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.951276	0.879506 @ round=5, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.952837	0.881565 @ round=5, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.952977	0.881565 @ round=5, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.952489	0.88105 @ round=5, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.94753	0.858393 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.949474	0.871267 @ round=5, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.951191	0.878476 @ round=5, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.951121	0.876416 @ round=5, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.950788	0.876416 @ round=5, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.950484	0.873841 @ round=5, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.972782	0.907312 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+0.973814	0.907312 @ round=5, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.974996	0.909887 @ round=5, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.975754	0.911946 @ round=5, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.975746	0.912461 @ round=5, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.975643	0.912461 @ round=5, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.969435	0.50309 @ round=5, C=1
+NO_SIGMIOD 0.969416	0.903708 @ round=5, C=1
+0.956616	0.886715 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.961501	0.886715 @ round=6, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.962993	0.891864 @ round=6, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.964545	0.894954 @ round=6, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.965377	0.898043 @ round=6, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.965104	0.897013 @ round=6, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.954545	0.877446 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.959089	0.883625 @ round=6, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.959772	0.88517 @ round=6, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.96	0.884655 @ round=6, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.960119	0.885685 @ round=6, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.960105	0.88414 @ round=6, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.983364	0.92585 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+0.98405	0.927909 @ round=6, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.984511	0.928424 @ round=6, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.984782	0.927909 @ round=6, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.984911	0.930484 @ round=6, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.98498	0.930484 @ round=6, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.980199	0.50309 @ round=6, C=1
+NO_SIGMIOD 0.980212	0.922245 @ round=6, C=1
+0.921682	0.850154 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.927935	0.856334 @ round=7, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.928555	0.856849 @ round=7, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.928816	0.858908 @ round=7, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.929112	0.856334 @ round=7, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.928896	0.855304 @ round=7, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.937902	0.84243 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.940716	0.864573 @ round=7, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.941892	0.866632 @ round=7, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.941277	0.868692 @ round=7, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.94125	0.870237 @ round=7, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.940952	0.871267 @ round=7, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.980806	0.922245 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+0.981182	0.92173 @ round=7, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.981739	0.92482 @ round=7, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.982068	0.92482 @ round=7, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.982229	0.927394 @ round=7, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.982359	0.927909 @ round=7, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.967262	0.50309 @ round=7, C=1
+NO_SIGMIOD 0.967274	0.904222 @ round=7, C=1
+0.955014	0.873841 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.964634	0.894954 @ round=8, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.96659	0.897528 @ round=8, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.96785	0.899588 @ round=8, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.968376	0.901648 @ round=8, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.967836	0.900618 @ round=8, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.968951	0.899588 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.971517	0.905252 @ round=8, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.972578	0.907312 @ round=8, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.973457	0.904737 @ round=8, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.973594	0.906282 @ round=8, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.973697	0.907827 @ round=8, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.985916	0.936148 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+0.986983	0.944902 @ round=8, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.987372	0.942842 @ round=8, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.98764	0.940268 @ round=8, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.987839	0.940268 @ round=8, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.9879	0.941298 @ round=8, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.986062	0.50309 @ round=8, C=1
+NO_SIGMIOD 0.986063	0.935633 @ round=8, C=1
+0.953355	0.879506 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.958277	0.887745 @ round=9, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.958854	0.88826 @ round=9, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.959031	0.889804 @ round=9, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.958654	0.890319 @ round=9, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.958409	0.890834 @ round=9, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.948563	0.867662 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.955447	0.870752 @ round=9, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.955294	0.872297 @ round=9, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.955146	0.873841 @ round=9, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.955355	0.875901 @ round=9, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.955453	0.876416 @ round=9, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.982392	0.929454 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+0.981802	0.925335 @ round=9, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.98195	0.925335 @ round=9, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.982036	0.925335 @ round=9, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.981986	0.925335 @ round=9, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.982047	0.92482 @ round=9, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.976879	0.50309 @ round=9, C=1
+NO_SIGMIOD 0.976891	0.916581 @ round=9, C=1
+0.924685	0.855819 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.928604	0.860453 @ round=10, C=1, kernel=poly, kernel_param=1.1, 8vs12
+0.932016	0.865602 @ round=10, C=1, kernel=poly, kernel_param=1.2, 8vs12
+0.93432	0.865088 @ round=10, C=1, kernel=poly, kernel_param=1.3, 8vs12
+0.936203	0.865602 @ round=10, C=1, kernel=poly, kernel_param=1.4, 8vs12
+0.93762	0.863543 @ round=10, C=1, kernel=poly, kernel_param=1.5, 8vs12
+0.947088	0.860968 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.939334	0.867147 @ round=10, C=1, kernel=poly, kernel_param=1.1, 9vs13
+0.941162	0.869207 @ round=10, C=1, kernel=poly, kernel_param=1.2, 9vs13
+0.942379	0.870752 @ round=10, C=1, kernel=poly, kernel_param=1.3, 9vs13
+0.943999	0.874356 @ round=10, C=1, kernel=poly, kernel_param=1.4, 9vs13
+0.945144	0.875386 @ round=10, C=1, kernel=poly, kernel_param=1.5, 9vs13
+0.981095	0.929969 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+0.979131	0.926365 @ round=10, C=1, kernel=poly, kernel_param=1.1, 10vs14
+0.979997	0.92688 @ round=10, C=1, kernel=poly, kernel_param=1.2, 10vs14
+0.980759	0.92688 @ round=10, C=1, kernel=poly, kernel_param=1.3, 10vs14
+0.980658	0.927394 @ round=10, C=1, kernel=poly, kernel_param=1.4, 10vs14
+0.980422	0.92482 @ round=10, C=1, kernel=poly, kernel_param=1.5, 10vs14
+SIGMIOD 0.970852	0.50309 @ round=10, C=1
+NO_SIGMIOD 0.970931	0.912461 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:41:06 @ , C = <==========  BEGIN @ 29-Nov-2012 09:41:06, C = 1 ============>
+0.713168	0.576186 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=1, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=1, C=1
+0.713168	0.576186 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=2, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=2, C=1
+0.713168	0.576186 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=3, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=3, C=1
+0.713168	0.576186 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=4, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=4, C=1
+0.713168	0.576186 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=5, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=5, C=1
+0.713168	0.576186 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=6, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=6, C=1
+0.713168	0.576186 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=7, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=7, C=1
+0.713168	0.576186 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=8, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=8, C=1
+0.713168	0.576186 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=9, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=9, C=1
+0.713168	0.576186 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.767919	0.60444 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97585	0.883451 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.964989	0.503027 @ round=10, C=1
+NO_SIGMIOD 0.964951	0.87891 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:41:17 @ , C = <==========  BEGIN @ 29-Nov-2012 09:41:17, C = 1 ============>
+0.815812	0.708291 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874663	0.68908 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.973566	0.902427 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.959875	0.503033 @ round=1, C=1
+NO_SIGMIOD 0.959916	0.828109 @ round=1, C=1
+0.658021	0.563701 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.72995	0.524267 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.949642	0.805359 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.863301	0.503033 @ round=2, C=1
+NO_SIGMIOD 0.862846	0.625885 @ round=2, C=1
+0.780081	0.726491 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.832596	0.673913 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979549	0.91911 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.958411	0.503033 @ round=3, C=1
+NO_SIGMIOD 0.958514	0.877654 @ round=3, C=1
+0.782087	0.647624 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.818364	0.562184 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.968943	0.870576 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.938432	0.503033 @ round=4, C=1
+NO_SIGMIOD 0.938349	0.719919 @ round=4, C=1
+0.789351	0.693124 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.832437	0.732558 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.970497	0.893327 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.947953	0.503033 @ round=5, C=1
+NO_SIGMIOD 0.947737	0.873104 @ round=5, C=1
+0.79411	0.62639 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.806846	0.721436 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976202	0.912538 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.954073	0.503033 @ round=6, C=1
+NO_SIGMIOD 0.954035	0.830637 @ round=6, C=1
+0.775706	0.674924 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.835681	0.738119 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974841	0.889282 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.957303	0.503033 @ round=7, C=1
+NO_SIGMIOD 0.957596	0.877149 @ round=7, C=1
+0.727039	0.677452 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.766323	0.667341 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.965119	0.891304 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.93178	0.503033 @ round=8, C=1
+NO_SIGMIOD 0.931654	0.851365 @ round=8, C=1
+0.813667	0.552578 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.820401	0.669363 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.966042	0.722952 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.930185	0.503033 @ round=9, C=1
+NO_SIGMIOD 0.930845	0.650657 @ round=9, C=1
+0.766676	0.694135 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.812136	0.555612 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.969683	0.897877 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.945738	0.503033 @ round=10, C=1
+NO_SIGMIOD 0.945741	0.795753 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:41:28 @ , C = <==========  BEGIN @ 29-Nov-2012 09:41:28, C = 1 ============>
+0.844715	0.746707 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.881368	0.762918 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.970275	0.892097 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.955456	0.50304 @ round=1, C=1
+NO_SIGMIOD 0.955457	0.863222 @ round=1, C=1
+0.699554	0.610436 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.774106	0.642351 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.948656	0.853597 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.881523	0.50304 @ round=2, C=1
+NO_SIGMIOD 0.881783	0.748227 @ round=2, C=1
+0.813695	0.752786 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.845579	0.746707 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.978998	0.911854 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.955857	0.50304 @ round=3, C=1
+NO_SIGMIOD 0.956105	0.885005 @ round=3, C=1
+0.865603	0.766464 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.895674	0.682371 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974454	0.902736 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.962137	0.50304 @ round=4, C=1
+NO_SIGMIOD 0.962183	0.836373 @ round=4, C=1
+0.796272	0.724924 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.852745	0.768997 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.969355	0.895643 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.944912	0.50304 @ round=5, C=1
+NO_SIGMIOD 0.944877	0.866768 @ round=5, C=1
+0.846161	0.759878 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.884861	0.753799 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976195	0.89463 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.965124	0.50304 @ round=6, C=1
+NO_SIGMIOD 0.965159	0.863728 @ round=6, C=1
+0.823199	0.663627 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.858242	0.758359 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.975692	0.898176 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.961116	0.50304 @ round=7, C=1
+NO_SIGMIOD 0.961205	0.838906 @ round=7, C=1
+0.864477	0.76849 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.851605	0.774063 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.97989	0.923506 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.971374	0.50304 @ round=8, C=1
+NO_SIGMIOD 0.97136	0.903749 @ round=8, C=1
+0.861206	0.687943 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.848934	0.744174 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974212	0.817123 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.959554	0.50304 @ round=9, C=1
+NO_SIGMIOD 0.959903	0.788247 @ round=9, C=1
+0.753623	0.665653 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.827178	0.634245 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.959377	0.882472 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.929594	0.50304 @ round=10, C=1
+NO_SIGMIOD 0.929868	0.797872 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:41:38 @ , C = <==========  BEGIN @ 29-Nov-2012 09:41:38, C = 1 ============>
+0.865759	0.784772 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.889653	0.793401 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.965962	0.892386 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.94786	0.503046 @ round=1, C=1
+NO_SIGMIOD 0.947889	0.86802 @ round=1, C=1
+0.782155	0.699492 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.84611	0.721827 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.965709	0.885787 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.930425	0.503046 @ round=2, C=1
+NO_SIGMIOD 0.930718	0.824873 @ round=2, C=1
+0.85648	0.787817 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.893667	0.756345 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.98158	0.921827 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967362	0.503046 @ round=3, C=1
+NO_SIGMIOD 0.967373	0.890355 @ round=3, C=1
+0.869393	0.767513 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.907665	0.636041 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.977824	0.893909 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.963352	0.503046 @ round=4, C=1
+NO_SIGMIOD 0.963365	0.807107 @ round=4, C=1
+0.798023	0.725888 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.858991	0.731472 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.961018	0.881218 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.926573	0.503046 @ round=5, C=1
+NO_SIGMIOD 0.926644	0.826904 @ round=5, C=1
+0.848677	0.761421 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.872897	0.783249 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.972916	0.907614 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.945501	0.503046 @ round=6, C=1
+NO_SIGMIOD 0.945634	0.867005 @ round=6, C=1
+0.836471	0.737056 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874437	0.779695 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976055	0.909645 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956137	0.503046 @ round=7, C=1
+NO_SIGMIOD 0.956171	0.880203 @ round=7, C=1
+0.861688	0.718274 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.89649	0.714721 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.980998	0.920305 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.973015	0.503046 @ round=8, C=1
+NO_SIGMIOD 0.973042	0.851777 @ round=8, C=1
+0.884293	0.826396 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.880891	0.774112 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.977965	0.889848 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967727	0.503046 @ round=9, C=1
+NO_SIGMIOD 0.967845	0.885279 @ round=9, C=1
+0.826759	0.731472 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.874173	0.684772 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.971723	0.906599 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956067	0.503046 @ round=10, C=1
+NO_SIGMIOD 0.956284	0.850761 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:41:50 @ , C = <==========  BEGIN @ 29-Nov-2012 09:41:50, C = 1 ============>
+0.912817	0.831295 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.924795	0.832824 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974345	0.909276 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.962971	0.503058 @ round=1, C=1
+NO_SIGMIOD 0.962974	0.896534 @ round=1, C=1
+0.835044	0.759429 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.870318	0.7737 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.968485	0.899592 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.936299	0.503058 @ round=2, C=1
+NO_SIGMIOD 0.936461	0.853211 @ round=2, C=1
+0.900707	0.820591 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.896884	0.810907 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983708	0.932212 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.969423	0.503058 @ round=3, C=1
+NO_SIGMIOD 0.969408	0.900612 @ round=3, C=1
+0.911288	0.830785 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.927217	0.828746 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.978736	0.924567 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96646	0.503058 @ round=4, C=1
+NO_SIGMIOD 0.966386	0.907238 @ round=4, C=1
+0.83445	0.755352 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.88683	0.791539 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.957615	0.884302 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.932577	0.503058 @ round=5, C=1
+NO_SIGMIOD 0.932686	0.848624 @ round=5, C=1
+0.896086	0.809888 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.92045	0.828746 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979175	0.920489 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.965964	0.503058 @ round=6, C=1
+NO_SIGMIOD 0.965974	0.894495 @ round=6, C=1
+0.862141	0.760449 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.910996	0.746687 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974918	0.900102 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956336	0.503058 @ round=7, C=1
+NO_SIGMIOD 0.956402	0.846075 @ round=7, C=1
+0.907425	0.796636 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.922729	0.818043 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983429	0.923547 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.978446	0.503058 @ round=8, C=1
+NO_SIGMIOD 0.978465	0.900102 @ round=8, C=1
+0.888015	0.810907 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.892749	0.804791 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976746	0.911825 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.963487	0.503058 @ round=9, C=1
+NO_SIGMIOD 0.963658	0.897554 @ round=9, C=1
+0.864495	0.803772 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.88367	0.783894 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976597	0.920999 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96156	0.503058 @ round=10, C=1
+NO_SIGMIOD 0.961616	0.899083 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:42:00 @ , C = <==========  BEGIN @ 29-Nov-2012 09:42:01, C = 1 ============>
+0.932975	0.86168 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.93549	0.842213 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976409	0.914447 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967823	0.503074 @ round=1, C=1
+NO_SIGMIOD 0.967828	0.904201 @ round=1, C=1
+0.902343	0.835041 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.901468	0.823258 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976209	0.917008 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.955849	0.503074 @ round=2, C=1
+NO_SIGMIOD 0.955977	0.882684 @ round=2, C=1
+0.941402	0.865266 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.945547	0.866291 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.986053	0.940061 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.981423	0.503074 @ round=3, C=1
+NO_SIGMIOD 0.981371	0.923156 @ round=3, C=1
+0.922988	0.831455 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.930238	0.835553 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976492	0.921619 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96287	0.503074 @ round=4, C=1
+NO_SIGMIOD 0.962877	0.896516 @ round=4, C=1
+0.899993	0.820184 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.924253	0.842213 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.968103	0.902152 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.95546	0.503074 @ round=5, C=1
+NO_SIGMIOD 0.955499	0.883197 @ round=5, C=1
+0.937175	0.845287 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.931623	0.839652 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979986	0.927254 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.96905	0.503074 @ round=6, C=1
+NO_SIGMIOD 0.969043	0.903176 @ round=6, C=1
+0.919428	0.849898 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.931672	0.840164 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.98135	0.928279 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.968117	0.503074 @ round=7, C=1
+NO_SIGMIOD 0.968137	0.910861 @ round=7, C=1
+0.945137	0.856045 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.94997	0.864242 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983802	0.92623 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.981715	0.503074 @ round=8, C=1
+NO_SIGMIOD 0.981708	0.921107 @ round=8, C=1
+0.933033	0.861168 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.918666	0.835553 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.979691	0.91957 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.969743	0.503074 @ round=9, C=1
+NO_SIGMIOD 0.969795	0.905225 @ round=9, C=1
+0.874714	0.807889 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.908041	0.8125 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.974173	0.914959 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.956632	0.503074 @ round=10, C=1
+NO_SIGMIOD 0.956655	0.893955 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:42:10 @ , C = <==========  BEGIN @ 29-Nov-2012 09:42:10, C = 1 ============>
+0.94306	0.863543 @ round=1, C=1, kernel=linear, kernel_param=0, 8vs12
+0.942181	0.864058 @ round=1, C=1, kernel=linear, kernel_param=0, 9vs13
+0.981953	0.930999 @ round=1, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.972572	0.50309 @ round=1, C=1
+NO_SIGMIOD 0.972556	0.909372 @ round=1, C=1
+0.914459	0.84758 @ round=2, C=1, kernel=linear, kernel_param=0, 8vs12
+0.916234	0.838826 @ round=2, C=1, kernel=linear, kernel_param=0, 9vs13
+0.978967	0.923275 @ round=2, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.959005	0.50309 @ round=2, C=1
+NO_SIGMIOD 0.959138	0.891864 @ round=2, C=1
+0.959261	0.892379 @ round=3, C=1, kernel=linear, kernel_param=0, 8vs12
+0.959927	0.872812 @ round=3, C=1, kernel=linear, kernel_param=0, 9vs13
+0.990019	0.944902 @ round=3, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.98625	0.50309 @ round=3, C=1
+NO_SIGMIOD 0.986212	0.935118 @ round=3, C=1
+0.935596	0.857878 @ round=4, C=1, kernel=linear, kernel_param=0, 8vs12
+0.947805	0.855819 @ round=4, C=1, kernel=linear, kernel_param=0, 9vs13
+0.976524	0.92173 @ round=4, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.967043	0.50309 @ round=4, C=1
+NO_SIGMIOD 0.966984	0.903193 @ round=4, C=1
+0.935596	0.856334 @ round=5, C=1, kernel=linear, kernel_param=0, 8vs12
+0.94753	0.858393 @ round=5, C=1, kernel=linear, kernel_param=0, 9vs13
+0.972782	0.907312 @ round=5, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.966001	0.50309 @ round=5, C=1
+NO_SIGMIOD 0.965998	0.891349 @ round=5, C=1
+0.956616	0.886715 @ round=6, C=1, kernel=linear, kernel_param=0, 8vs12
+0.954545	0.877446 @ round=6, C=1, kernel=linear, kernel_param=0, 9vs13
+0.983364	0.92585 @ round=6, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.978449	0.50309 @ round=6, C=1
+NO_SIGMIOD 0.978398	0.918126 @ round=6, C=1
+0.921682	0.850154 @ round=7, C=1, kernel=linear, kernel_param=0, 8vs12
+0.937902	0.84243 @ round=7, C=1, kernel=linear, kernel_param=0, 9vs13
+0.980806	0.922245 @ round=7, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.966543	0.50309 @ round=7, C=1
+NO_SIGMIOD 0.966573	0.900618 @ round=7, C=1
+0.955014	0.873841 @ round=8, C=1, kernel=linear, kernel_param=0, 8vs12
+0.968951	0.899588 @ round=8, C=1, kernel=linear, kernel_param=0, 9vs13
+0.985916	0.936148 @ round=8, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.984735	0.50309 @ round=8, C=1
+NO_SIGMIOD 0.984705	0.933059 @ round=8, C=1
+0.953355	0.879506 @ round=9, C=1, kernel=linear, kernel_param=0, 8vs12
+0.948563	0.867662 @ round=9, C=1, kernel=linear, kernel_param=0, 9vs13
+0.982392	0.929454 @ round=9, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.977109	0.50309 @ round=9, C=1
+NO_SIGMIOD 0.977079	0.919156 @ round=9, C=1
+0.924685	0.855819 @ round=10, C=1, kernel=linear, kernel_param=0, 8vs12
+0.947088	0.860968 @ round=10, C=1, kernel=linear, kernel_param=0, 9vs13
+0.981095	0.929969 @ round=10, C=1, kernel=linear, kernel_param=0, 10vs14
+SIGMIOD 0.973379	0.50309 @ round=10, C=1
+NO_SIGMIOD 0.973351	0.917611 @ round=10, C=1
+<==========  END: 29-Nov-2012 09:42:21 @ , C = 

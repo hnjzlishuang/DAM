@@ -1,0 +1,5 @@
+This software is modified from libsvm-3.11 to solve adapt svm problem
+
+    Cross-Domain Video Concept Detection Using Adaptive SVMs
+
+The author has provided c code online, but it can not deal with precomputed kernel, this software is mainly developed to deal with the precomputed kernel. The non precomputed kernel case has not been tested.
